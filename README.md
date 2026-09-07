@@ -15,8 +15,12 @@ Theory
 Zener diode – The diodes, which are designed to operate in the breakdown region. The other name is avalanche diode. There are two types of breakdown in these diodes, namely avalanche and Zener breakdown. In avalanche breakdown, the conduction in reverse bias is due to avalanche multiplication of charge carriers. In Zener diode, breakdown is due to direct rupture of covalent bonds because of strong electric field. The actual intensity of the electric field strength that produces Zener breakdown voltage determines the breakdown voltage.
 
 Circuit diagram (forward and reverse bias)
+<img width="682" height="742" alt="WhatsApp Image 2026-09-07 at 4 59 12 PM" src="https://github.com/user-attachments/assets/f9a9ca7e-317a-4ad2-8fdc-46a40612d0fc" />
+
 
 Procedure / simulation reference
+<img width="245" height="353" alt="WhatsApp Image 2026-09-07 at 5 03 10 PM" src="https://github.com/user-attachments/assets/952de696-6129-409a-8308-d753e965dcce" />
+<img width="245" height="357" alt="WhatsApp Image 2026-09-07 at 5 03 10 PM (1)" src="https://github.com/user-attachments/assets/07e807d5-b7cb-4ed3-8f8d-1021170fe3ae" />
 
 Procedure
 Forward Bias
@@ -34,29 +38,13 @@ Reverse Bias
 11.	Graph is drawn between Vr and Ir.
 12.	The reverse conduction region is extended to meet at a point. The value at this point is Vrb.
 Observation Table
-Forward Bias	Reverse Bias
-Voltage (V)	Current (mA)	Voltage (V)	Current (mA)
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
-			
+<img width="1323" height="685" alt="WhatsApp Image 2026-09-07 at 4 59 34 PM" src="https://github.com/user-attachments/assets/b1df3ddf-7c37-4408-948f-e837422bc1b1" />
 Formula
 Forward Resistance:  RF = ΔVF / ΔIF  (Ω)
 Reverse Resistance:  RR = ΔVR / ΔIR  (Ω)
 Calculation
+<img width="512" height="633" alt="WhatsApp Image 2026-09-07 at 4 59 34 PM (1)" src="https://github.com/user-attachments/assets/a6c8431b-e386-46bc-9466-157eeed95298" />
+
 Forward Resistance:
 RF = [(0.74 − 0.73) / (3.30 − 2.53)] × 10³ ≈ 12 Ω
 Reverse Resistance:
